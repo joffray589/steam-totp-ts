@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/joffray589/steam-totp-ts/issues"
   },
-  "homepage": "https://github.com/joffray589/steam-totp-ts#readme"
+  "homepage": "https://github.com/joffray589/steam-totp-ts#readme",
+
+  "dependencies": {
+    "@types/steamid": "joffray589/steamid-ts"
+  }
 }
